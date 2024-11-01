@@ -1,6 +1,6 @@
 # GitHub workflow for Knative documentation
 
-Learn how to use GitHub and contribute to the `knative/docs` repo.
+Learn how to use GitHub and contribute to the `knative/docs` repo. 
 
 
 ## Set up your local machine
